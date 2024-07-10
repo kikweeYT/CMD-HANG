@@ -9,3 +9,5 @@ client (aka the people who join the servers):
 1. type in room code
 2. type in username
 3. start chating
+----------------------------------------------------------------------------------------------------------------------------
+New versions may have new features
